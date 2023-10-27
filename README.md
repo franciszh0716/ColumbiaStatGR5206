@@ -2,6 +2,8 @@
 
 https://dlab.berkeley.edu/news/getting-started-nyt-api
 
+https://medium.com/@danalindquist/using-new-york-times-api-and-jq-to-collect-news-data-a5f386c7237b
+
 For pandas:
 https://pandas.pydata.org/docs/reference/io.html
 
