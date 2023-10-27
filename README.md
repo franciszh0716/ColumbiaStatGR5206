@@ -1,4 +1,7 @@
 # ColumbiaStatGR5206
+
+https://dlab.berkeley.edu/news/getting-started-nyt-api
+
 For pandas:
 https://pandas.pydata.org/docs/reference/io.html
 
